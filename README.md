@@ -138,14 +138,15 @@ Rare edge cases may exist when Blender retains a previously active node, but no 
 
 ## License
 
-This project is licensed under the **GNU General Public License v3.0 (GPL-3.0)**.
+This project is licensed under the **MIT License**.
 
 You are free to:
 - Use
 - Modify
-- Redistribute
+- Distribute
+- Include in commercial or non-commercial projects
 
-Under the terms of the GPL-3.0 license.
+With minimal restrictions. See the `LICENSE` file for full details.
 
 ---
 
